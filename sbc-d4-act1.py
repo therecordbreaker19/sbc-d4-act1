@@ -1,3 +1,4 @@
+#HUMPYANG
 from random import randint
 
 user_choice = int(input("Enter 0 (hayang) or 1 (kulob): ")) # To input the user choices 0 or 1 to convert the input the user choices into integer 
